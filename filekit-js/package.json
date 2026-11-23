@@ -1,0 +1,29 @@
+{
+  "name": "filekit-js",
+  "version": "1.0.0",
+  "description": "A simple, lightweight JavaScript toolkit for validating and processing browser files.",
+  "type": "module",
+  "main": "index.js",
+  "exports": { ".": "./index.js" },
+  "scripts": { "test": "node --test" },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divyansh-x-codes/FileKit-JS.git"
+  },
+  "keywords": [
+    "file",
+    "validation",
+    "upload",
+    "image",
+    "mime-type",
+    "javascript",
+    "browser",
+    "zero-dependencies"
+  ],
+  "author": "Divyansh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/divyansh-x-codes/FileKit-JS/issues"
+  },
+  "homepage": "https://github.com/divyansh-x-codes/FileKit-JS#readme"
+}

@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Production builds
+dist/
+*/dist/
+
+# Environment and OS
+.env
+.env.*
+.DS_Store
+*.log
